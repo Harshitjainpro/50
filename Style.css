@@ -1,0 +1,26 @@
+h1{
+    color: brown;
+}
+a,h3{
+    color: blue;
+}
+img{
+    border: solid;
+    border-color: black ;
+}
+.header{
+    background-color: cyan;
+    display: flex;
+    justify-content: space-between;
+}
+.footer{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
+.grid{
+    background-color: rgb(67, 214, 87);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
